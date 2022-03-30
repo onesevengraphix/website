@@ -1,0 +1,21 @@
+main:
+  - name: "Services"
+    url: "/comingsoon/"
+    weight: 2
+  - name: "Team"
+    url: "/comingsoon/"
+    weight: 3
+  - name: "About"
+    url: "/comingsoon/"
+    weight: 4
+  - name: "Contact"
+    url: "/comingsoon/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/comingsoon/"
+    weight: 2

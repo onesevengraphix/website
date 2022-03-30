@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Loren Ipsum",
+    "description": "Aliqua ut aute eu consectetur tempor proident nisi exercitation nulla ad et pariatur sunt.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Dolor Sit",
+    "description": "Deserunt duis anim pariatur culpa consectetur fugiat anim nostrud minim labore nisi excepteur.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Amet Consectetur",
+    "description": "Sint aute qui Lorem dolor nisi officia non anim ad id aliquip eiusmod anim esse.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
