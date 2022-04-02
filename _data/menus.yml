@@ -1,11 +1,11 @@
 main:
-  - name: "Services"
+  - name: "About"
     url: "/comingsoon/"
     weight: 2
   - name: "Team"
     url: "/comingsoon/"
     weight: 3
-  - name: "About"
+  - name: "Services"
     url: "/comingsoon/"
     weight: 4
   - name: "Contact"
