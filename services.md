@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We created Oneseven Graphix for those people who needs printing services. We suggests different layouts and designs for special occasions and events. Customizing an old car wraps to its new look. We are not limiting ourselves to deliver satisfaction to our customers.
