@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: services
-intro_image: "assets/img/illustrations/logomark.svg"
+intro_image: "assets/img/illustrations/services.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
