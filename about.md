@@ -2,6 +2,9 @@
 title: 'About'
 date: 2018-02-22T17:01:34+07:00
 layout: page
+intro_image: "assets/img/illustrations/index.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true    
 bodyClass: page-about
 ---
 
