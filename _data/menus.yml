@@ -1,6 +1,6 @@
 main:
   - name: "About"
-    url: "/comingsoon/"
+    url: "/about/"
     weight: 2
   - name: "Team"
     url: "/comingsoon/"
