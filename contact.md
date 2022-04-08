@@ -2,9 +2,12 @@
 title: Contact
 layout: contact
 bodyClass: page-contact
+intro_image: "assets/img/illustrations/contact.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
-We are glad to accommodate you Mondays to Fridays. 
+We are glad to accommodate you Mondays to Fridays.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
