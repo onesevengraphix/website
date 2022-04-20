@@ -4,6 +4,11 @@ date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
+carousels:
+  - images: 
+    - image: /assets/img/demo/1.jpg
+    - image: /assets/img/demo/2.jpg
+    - image: /assets/img/demo/3.jpg
 ---
 
 Aliqua laborum sit est culpa aliquip sunt proident veniam elit aute. Nisi Lorem consequat Lorem aute ex laborum ex nulla incididunt deserunt. Et eiusmod non irure amet aliquip laborum proident culpa amet ullamco tempor. Duis ad laboris est aliquip esse deserunt est excepteur aute pariatur nulla exercitation. Ea minim velit nisi officia adipisicing quis. Non enim dolor consectetur dolore minim cillum consectetur occaecat ullamco.
