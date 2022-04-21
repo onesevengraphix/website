@@ -1,5 +1,5 @@
 ---
-title: "T-Shirt Design"
+title: "T-Shirt Design & Tarpaulin Printing"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 3
