@@ -1,9 +1,14 @@
 ---
-title: "T-Shirt Design & Tarpaulin Printing"
+title: "T-Shirt Designs & Tarpaulin"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 3
 layout: service
+carousels:
+  - images: 
+    - image: /assets/img/demo/1.jpg
+    - image: /assets/img/demo/2.jpg
+    - image: /assets/img/demo/3.jpg
 ---
 
 Consequat exercitation culpa eiusmod dolor irure officia amet ex id dolore. Pariatur proident aliquip officia commodo officia sint aute. Ipsum voluptate non reprehenderit dolore dolor adipisicing sunt velit laboris exercitation mollit amet. Cupidatat deserunt cupidatat ut ad. Est enim duis in ea est. Labore incididunt labore enim id.
