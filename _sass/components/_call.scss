@@ -36,6 +36,9 @@
   }
   .call-phone {
     margin-bottom: 5px;
+    a {
+      color: $black;
+    }
   }
   .call-email {
     a {
