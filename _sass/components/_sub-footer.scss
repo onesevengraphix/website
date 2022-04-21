@@ -14,18 +14,16 @@
     @include media-breakpoint-up(md) {
       flex-direction: row;
     }
-    @media screen and (max-width: 768px) {
-      .sub-footer-inner {
+    @media screen and (max-width: 768px) { 
         align-items: center;
         align-content: center;
-      }
     }
       
     }
   }
     
   .copyright {
-    margin-top: 20px;
+    margin-top: 25px;
     font-size: 14px;
     a {
       font-weight: bold;
