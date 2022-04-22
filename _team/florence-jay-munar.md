@@ -1,12 +1,12 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
+title: "Florence Jay Munar"
+date: 2022-04-22T15:06:00+08:00
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+image: "/assets/img/team/florence-jay-munar.jpg"
+jobtitle: "Lead Developer"
+linkedinurl: "https://www.linkedin.com/in/iamflorencejay"
 promoted: true
-weight: 1
+weight: 2
 layout: team
 ---
 

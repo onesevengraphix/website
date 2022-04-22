@@ -1,11 +1,12 @@
 ---
-title: "Bill McDonald"
+title: "Nikko Nolasco"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
-linkedinurl: ""
-weight: 7
+image: "/assets/img/team/nikko-nolasco.jpg"
+jobtitle: ""
+linkedinurl: "https://www.linkedin.com/"
+promoted: true
+weight: 1
 layout: team
 ---
 
