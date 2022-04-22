@@ -13,7 +13,7 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: '&copy; <script>document.write(new Date().getFullYear())</script> OneSevenGraphix. All Rights Reserved. Developed with <i class="fa-solid fa-heart"></i> by <a href="/team"> Test.</a>'
+  copyright_text: '&copy; <script>document.write(new Date().getFullYear())</script> OneSevenGraphix. All Rights Reserved. Developed with <i class="fa-solid fa-heart"></i> by <a href="https://onesevengraphix.github.io/website/team"> Test.</a>'
 
 seo:
   meta_og_title: "OneSevenGraphix Website"
