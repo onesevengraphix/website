@@ -11,4 +11,4 @@ carousels:
     - image: /assets/img/demo/3.jpg
 ---
 
-Looking for a logo for your business? We create and design logos for startup businesses and personal branding. Let's have a chat! Message us now or visit our Facebook page for more info.
+Looking for a logo for your business? We create and design logos for startup businesses and personal branding. Let's have a chat! Message us now! Or visit and follow our Facebook page for more info.

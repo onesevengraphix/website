@@ -11,4 +11,4 @@ carousels:
     - image: /assets/img/demo/3.jpg
 ---
 
-Quality vinyl stickers. With a minimum of 6 inches in with for only 50 Pesos! Prices varies on the sizes and available in different colors. Message us now or visit our Facebook page for more info.
+Quality vinyl stickers. With a minimum of 6 inches in width for only 50 Pesos! Prices may vary depending on the sizes and available in different colors. Message us now! Or visit and follow our Facebook page for more info.

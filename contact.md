@@ -3,7 +3,7 @@ title: Contact
 layout: contact
 ---
 
-We are glad to accommodate you Mondays to Saturdays.
+We are open to accommodate you Mondays to Saturdays.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |

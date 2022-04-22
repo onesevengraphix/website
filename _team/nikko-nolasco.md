@@ -1,7 +1,7 @@
 ---
 title: "Nikko Nolasco"
 redirect_to: "https://nik-co.webflow.io/"
-excerpt: "Passionate in creating 3D models and animations and loves to explore different programs to fully enhance my skills as multimedia artist."
+excerpt: "Passionate in creating 3D models and animations and loves to explore different programs to fully enhance my skills in multimedia arts."
 date: 2022-04-22T15:06:00+08:00
 draft: false
 image: "/assets/img/team/nikko-nolasco.png"
