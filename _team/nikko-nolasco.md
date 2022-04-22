@@ -5,7 +5,7 @@ excerpt: "Passionate in creating 3D models and animations and loves to explore d
 date: 2022-04-22T15:06:00+08:00
 draft: false
 image: "/assets/img/team/nikko-nolasco.png"
-jobtitle: "Senior Graphic Designer"
+jobtitle: "Art Director/Copywriter"
 linkedinurl: "https://www.linkedin.com/in/nikko-nolasco-a7648a216/"
 promoted: true
 weight: 1
