@@ -33,7 +33,7 @@ bodyClass: page-team-list
                     <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.linkedinurl %}
-                    <a target="_blank" href="{{ team.linkedinurl }}"><i style="color: #f38020;" class="fa-brands fa-linkedin"></i> LinkedIn</a>
+                    <a target="_blank" href="{{ team.linkedinurl }}"><i style="color: #0077b5;" class="fa-brands fa-linkedin"></i> LinkedIn</a>
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.excerpt | truncate: 200 }}</div>
