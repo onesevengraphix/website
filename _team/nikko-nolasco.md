@@ -1,16 +1,13 @@
 ---
 title: "Nikko Nolasco"
-date: 2018-11-19T10:47:58+10:00
+redirect_to: "https://nik-co.webflow.io/"
+excerpt: "Eyy there"
+date: 2022-04-22T15:06:00+08:00
 draft: false
-excerpt: "ey there"
-image: "/assets/img/team/nikko-nolasco.jpg"
-jobtitle: ""
-linkedinurl: "https://www.linkedin.com/"
+image: ""
+jobtitle: "Graphic Designer"
+linkedinurl: ""
 promoted: true
 weight: 1
 layout: team
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
