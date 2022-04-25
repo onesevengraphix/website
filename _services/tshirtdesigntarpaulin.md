@@ -10,6 +10,7 @@ carousels:
     - image: /assets/img/services/t-shirt/t2.jpg
     - image: /assets/img/services/t-shirt/t3.jpg
     - image: /assets/img/services/t-shirt/t4.jpg
+    - image: /assets/img/services/t-shirt/t5.jpg
     - image: /assets/img/services/tarpaulins/tarp1.jpg
     - image: /assets/img/services/tarpaulins/tarp2.jpg
     - image: /assets/img/services/tarpaulins/tarp3.jpg
