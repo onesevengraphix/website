@@ -12,4 +12,16 @@ carousels:
     - image: /assets/img/services/stickers/s4.jpg
 ---
 
-Quality vinyl stickers. With a minimum of 6 inches in width for only 50 Pesos! Prices may vary depending on the sizes and available in different colors. Message us now! Or visit and follow our Facebook page for more info.
+Personalize vinyl cut-out stickers. 
+
+	- Long lasting and waterproof stickers.
+
+	- Proven and tested.
+
+	- Available in different colors!
+
+With a minimum of 6 inches in width for only 50 Pesos! 
+
+Prices may vary depending on the sizes.
+
+Message us now or visit our Facebook page for more info.

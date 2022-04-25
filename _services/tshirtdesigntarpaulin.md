@@ -18,4 +18,10 @@ carousels:
     - image: /assets/img/services/tarpaulins/tarp6.jpg
 ---
 
-Need some printing? We got you! We accept heatpress t-shirt printing and tarpaulins for any kinds of events! Message us now! Or visit and follow our Facebook page for more info.
+Need some personalize prints? 
+
+We got you! 
+
+We accept heatpress printing and tarpaulins for any kinds of events! 
+
+Message us now or visit our Facebook page for more info.
