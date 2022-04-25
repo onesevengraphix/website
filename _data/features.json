@@ -1,17 +1,17 @@
 [
   {
     "title": "High Quality",
-    "description": "Aliqua ut aute eu consectetur tempor proident nisi exercitation nulla ad et pariatur sunt.",
+    "description": "Satisfaction guarantee.",
     "image": "/assets/img/icons/qual1.png"
   },
   {
     "title": "Affordable",
-    "description": "Deserunt duis anim pariatur culpa consectetur fugiat anim nostrud minim labore nisi excepteur.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "description": "Budget-friendly services.",
+    "image": "/assets/img/icons/peso1.png"
   },
   {
     "title": "Trusted",
-    "description": "Sint aute qui Lorem dolor nisi officia non anim ad id aliquip eiusmod anim esse.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "description": "Tried and tested by many clients.",
+    "image": "/assets/img/icons/trust1.png"
   }
 ]
