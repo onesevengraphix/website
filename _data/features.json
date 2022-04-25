@@ -2,7 +2,7 @@
   {
     "title": "High Quality",
     "description": "Aliqua ut aute eu consectetur tempor proident nisi exercitation nulla ad et pariatur sunt.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "image": "/assets/img/icons/qual1.png"
   },
   {
     "title": "Affordable",
@@ -10,7 +10,7 @@
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Amet Consectetur",
+    "title": "Trusted",
     "description": "Sint aute qui Lorem dolor nisi officia non anim ad id aliquip eiusmod anim esse.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
