@@ -14,13 +14,13 @@ carousels:
     - image: /assets/img/services/stickers/s6.jpg
 ---
 
-Personalize vinyl cut-out stickers. 
+## Personalize vinyl cut-out stickers. 
 
-	Long lasting and waterproof stickers.
+Long lasting and waterproof stickers.
 
-	Proven and tested.
+Proven and tested.
 
-	Available in different colors!
+Available in different colors!
 
 With a minimum of 6 inches in width for only 50 Pesos! Prices may vary depending on the sizes.
 
