@@ -24,7 +24,7 @@ Available in different colors!
 
 With a minimum of 6 inches in width for only 50 Pesos! Prices may vary depending on the sizes.
 
-## How to put vinyl stickers on vehicles.
+## How to Put Vinyl Stickers on Vehicles.
 
 Applying vinyl stickers yourself can give you satisfaction only if you allow yourself time to do it slowly and carefully. You may also wish to ask a friend to help if your vinyl stickers are large. 
 
