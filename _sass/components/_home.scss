@@ -1,6 +1,29 @@
-.feature-banner img {
-    height: auto; 
-    width: auto; 
-    max-width: 728px; 
-    max-height: 90px;
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+
+@media screen and (min-width: 400px) {
+    .responsive {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .responsive {
+        width: 100%;
+        max-width: 800px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .responsive {
+        width: 100%;
+        max-width: 1200px;
+        height: auto;
+    }
 }
