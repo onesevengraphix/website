@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
+teaser: /assets/img/services/logos/l1.jpg
 carousels:
   - images: 
     - image: /assets/img/services/logos/l1.jpg

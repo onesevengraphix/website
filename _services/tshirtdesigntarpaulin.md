@@ -4,6 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 3
 layout: service
+teaser: /assets/img/services/t-shirt/t1.jpg
 carousels:
   - images: 
     - image: /assets/img/services/t-shirt/t1.jpg
