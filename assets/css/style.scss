@@ -55,11 +55,12 @@ $sub-footer-text-color: $white;
 @import 'components/strip';
 @import 'components/feature';
 @import 'components/social';
+@import 'components/home';
 
 // Pages
-@import 'pages/home';
 @import 'pages/team/team-summary';
 @import 'pages/services/page-services-single';
+@import 'pages/services/services';
 
 body {
   font-size: 16px;
