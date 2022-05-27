@@ -3,6 +3,13 @@ title: Contact
 layout: contact
 ---
 
+
+We are located at J.P. Rizal Street, Poblacion Pandi, Bulacan. Along Balagtas-Pandi road.
+
+Landmark:
+ Infront of EDCON Building.
+ Beside Flash Home Pandi branch.
+
 We are open to accommodate you Mondays to Saturdays.
 
 | Day       | Opening Hours   |
