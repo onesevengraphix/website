@@ -39,6 +39,7 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-redirect-from
+  - jekyll-admin
 
 exclude:
   - Gemfile
