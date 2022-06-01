@@ -5,8 +5,7 @@ featured: true
 weight: 1
 layout: service
 teaser: /assets/img/services/logos/l1.jpg
-carousels:
-  - images: 
+images: 
     - image: /assets/img/services/logos/l1.jpg
     - image: /assets/img/services/logos/l2.jpg
     - image: /assets/img/services/logos/l3.jpg

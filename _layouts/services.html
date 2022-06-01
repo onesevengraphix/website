@@ -18,6 +18,7 @@ bodyClass: page-services-list
   </div>
 </div>
 
+<div class="strip-secondary">
 <div class="container pt-6 pb-6">
   <div class="row">
     {% assign weighted_services = site.services | sort: "weight" %}
@@ -25,16 +26,19 @@ bodyClass: page-services-list
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         <div class="service-teaser">
+          <a href="{{ service.url | relative_url }}">
           <img src="https://raw.githubusercontent.com/onesevengraphix/website/master{{ service.teaser }}" alt="{{ service.title }}">
+          </a>
         </div>
         <div class="service-content">
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ service.content | markdownify | strip_html | truncate: 180 }}</p>
         </div>
       </div>
     </div>
     {% endfor %}
   </div>
+</div>
 </div>
