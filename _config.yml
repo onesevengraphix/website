@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: "/"
 permalink: pretty
-title: 'OneSevenGraphix Website'
+title: "OneSevenGraphix Website"
 
 google_analytics_id: ""
 
@@ -40,6 +40,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-redirect-from
   - jekyll-admin
+  - jekyll-gallery-generator
 
 exclude:
   - Gemfile
