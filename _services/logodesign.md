@@ -5,7 +5,8 @@ featured: true
 weight: 1
 layout: service
 teaser: /assets/img/services/logos/l1.jpg
-images: 
+carousels:
+  - images: 
     - image: /assets/img/services/logos/l1.jpg
     - image: /assets/img/services/logos/l2.jpg
     - image: /assets/img/services/logos/l3.jpg
@@ -14,6 +15,8 @@ images:
     - image: /assets/img/services/logos/l6.jpg
     - image: /assets/img/services/logos/l7.jpg
 ---
+
+
 
 Looking for a logo for your business? 
 
