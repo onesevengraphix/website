@@ -21,3 +21,5 @@ Looking for a logo for your business?
 We create and design logos for startup businesses and personal branding. We believe that good design makes a good branding. We are here to help you in creating your personal branding and style. At Oneseven Graphix, we adhere to what our valued customers wants and needs. 
 
 Let's have a chat! Message us now or visit our Facebook page for more info.
+
+{% include photo-gallery.html %}
