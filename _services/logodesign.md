@@ -24,4 +24,4 @@ We create and design logos for startup businesses and personal branding. We beli
 
 Let's have a chat! Message us now or visit our Facebook page for more info.
 
-{% include gallery.html %}
+{% include gallery1.html %}
