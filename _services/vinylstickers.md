@@ -54,3 +54,5 @@ Smooth the sticker with the plastic squeegee, moving from the center to the outs
 Poke tiny holes in any remaining air bubbles with a pin. And you're all done!
 
 Message us now or visit our Facebook page for more info.
+
+{% include gallery2.html %}

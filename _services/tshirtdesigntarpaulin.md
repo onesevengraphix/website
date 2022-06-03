@@ -25,3 +25,5 @@ Need some personalize prints?
 We got you! We accept heatpress printing and tarpaulins for any kinds of events! 
 
 Message us now or visit our Facebook page for more info.
+
+{% include gallery3.html %}
